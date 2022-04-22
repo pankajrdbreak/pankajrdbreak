@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankajrdbreak
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m interested in Serevers
+- 🌱 I’m currently practicing DevOps
 - 📫 How to reach me pankaj.rd.break@gmail.com
 
 <!---
